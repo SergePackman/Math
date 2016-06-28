@@ -1,4 +1,5 @@
 import java.math.*;
+// задание e
 
 public class Mathemat2 {
     private static double dd;
